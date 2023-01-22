@@ -1,6 +1,6 @@
 # Data Structures
 
-A collection of custom data structures, enumerators, and static enumeration functions, based on .NET's collection libraries
+A collection of custom data structures, enumerators, and static enumeration functions, based on .NET libraries
 
 Includes:
 
